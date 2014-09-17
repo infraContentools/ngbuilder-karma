@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/darlanalves/ngbuilder-karma/issues"
   },
-  "homepage": "https://github.com/darlanalves/ngbuilder-karma"
+  "homepage": "https://github.com/darlanalves/ngbuilder-karma",
+  "dependencies": {
+    "karma": "^0.12.23"
+  }
 }
