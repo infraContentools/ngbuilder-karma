@@ -1,6 +1,6 @@
 {
   "name": "ngbuilder-karma",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Karma plugin for ngbuilder",
   "main": "karma.js",
   "scripts": {
