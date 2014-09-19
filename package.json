@@ -1,25 +1,25 @@
 {
   "name": "ngbuilder-karma",
   "version": "0.0.2",
-  "description": "Karma plugin for ngbuilder",
+  "description": "Karma runner plugin for ngbuilder",
   "main": "karma.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/darlanalves/ngbuilder-karma"
+    "url": "git://github.com/infraContentools/ngbuilder-karma"
   },
   "keywords": [
     "ngbuilder",
     "karma"
   ],
-  "author": "",
+  "author": "Darlan Alves <me@darlanalv.es>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darlanalves/ngbuilder-karma/issues"
+    "url": "https://github.com/infraContentools/ngbuilder-karma/issues"
   },
-  "homepage": "https://github.com/darlanalves/ngbuilder-karma",
+  "homepage": "https://github.com/infraContentools/ngbuilder-karma",
   "dependencies": {
     "karma": "^0.12.23"
   }

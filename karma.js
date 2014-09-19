@@ -23,6 +23,6 @@ module.exports = (function() {
 	return {
 		name: 'karma',
 		run: run,
-		watcher: ['src/**/*.js', 'views/**/*.js']
+		watcher: ['src/**/*.js', 'views/**/*.html']
 	};
 })();
